@@ -6,15 +6,16 @@ Turma - 037
 
 Exercicio 01
 
-** Simulador de Caixa Eletrônico - Java **
-
-Este projeto é um exercício prático de Lógica de Programação desenvolvido durante a Residência em Software do Serratec. O objetivo é simular as operações básicas de um terminal bancário via console.
+Simulador de Caixa Eletrônico: O objetivo é simular as operações básicas de um terminal bancário via console.
 
 Exercicio 2
 
-** Conta Bancária **
+Conta Bancária: O objetivo foi migrar a lógica procedural de um simulador de caixa eletrónico para o paradigma de **Programação Orientada a Objetos (POO)**.
 
-O objetivo foi migrar a lógica procedural de um simulador de caixa eletrónico para o paradigma de **Programação Orientada a Objetos (POO)**.
+Exercicio 3
+
+E-Commerce: Relacionamentos e Encapsulamento. Modelar um Pedido que pertence a um Cliente e contém uma Lista de
+ItemPedido.
 
 Java (JDK 17+)
 Git para versionamento
