@@ -1,3 +1,5 @@
+package CaixaEletronico;
+
 import java.util.Scanner;
 
 public class CaixaEletronico {
