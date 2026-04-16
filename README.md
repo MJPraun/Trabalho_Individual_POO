@@ -12,6 +12,8 @@ Este projeto é um exercício prático de Lógica de Programação desenvolvido 
 
 Exercicio 2
 
+** Conta Bancária **
+
 O objetivo foi migrar a lógica procedural de um simulador de caixa eletrónico para o paradigma de **Programação Orientada a Objetos (POO)**.
 
 Java (JDK 17+)
